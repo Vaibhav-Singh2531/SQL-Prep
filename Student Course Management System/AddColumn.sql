@@ -1,0 +1,2 @@
+ALTER TABLE students
+ADD email VARCHAR(255);
