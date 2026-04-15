@@ -1,0 +1,1 @@
+DELETE FROM strudents WHERE name='ajay';
