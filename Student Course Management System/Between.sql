@@ -1,0 +1,2 @@
+SELECT * FROM courses
+WHERE credits BETWEEN 2 AND 4;
