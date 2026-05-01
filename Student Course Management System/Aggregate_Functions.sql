@@ -6,3 +6,6 @@ FROM courses;
 
 SELECT COUNT(*)
 FROM students;
+
+SELECT SUM(credits)
+FROM courses;
