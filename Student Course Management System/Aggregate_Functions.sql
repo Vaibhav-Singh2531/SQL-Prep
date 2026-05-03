@@ -9,3 +9,6 @@ FROM students;
 
 SELECT SUM(credits)
 FROM courses;
+
+SELECT AVG(credits)
+FROM courses;
